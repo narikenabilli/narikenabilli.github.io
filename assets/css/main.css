@@ -212,7 +212,7 @@ p {
 #skillswrap {
     background: #2c3e50;
     padding-top: 60px;
-    padding-bottom: 60px;
+    /* padding-bottom: 60px; */
     color: white;
 }
 
@@ -292,11 +292,13 @@ a.project {
     border: solid 1px rgb(26, 188, 156);
     padding: 7px;
     border-radius: 7px;
-    background-color: rgb(171, 228, 241);
+    /* background-color: rgb(171, 228, 241); */
 }
 
 .img-responsive {
     border: solid 1px rgb(91, 195, 168);
+    height: 23em;
+    width: auto;
 }
 
 .cd-top.cd-is-visible {
